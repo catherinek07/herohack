@@ -30,18 +30,12 @@ function NavBar() {
                    About
                 </Typography>
                 <Typography variant="h6" className={classes.menuItem}>
-                    Blog
+                    Create
                 </Typography>
                 <Typography variant="h6" className={classes.menuItem}>
-                    Careers
+                    Profile 
                 </Typography>
-                <Typography variant="h6" className={classes.menuItem}>
-                    Demos 
-                </Typography>
-                <Typography variant="h6" className={classes.menuItem}>
-                    Contact Us 
-                </Typography>
-                <CustomBtn txt="Trial Our Product"/>
+                <CustomBtn txt="Log In"/>
             </Toolbar>
     )
 }
