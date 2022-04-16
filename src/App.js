@@ -23,7 +23,7 @@ const theme = createMuiTheme({
   },
   typography: {
     fontFamily: [
-      'Roboto'
+      'Source Sans Pro'
     ],
     h4: {
       fontWeight: 600,
