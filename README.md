@@ -1,3 +1,23 @@
+Hello, this is Frank Li, Caleb Ji, and Catherine Kim, and our website for HeroHacks II called iNFiniTe, a website that turns motivational quotes and their images into NFTs that empowers people as they create, share, sell, and buy meaningful words and beautiful pictures.
+
+Everyday, our world falls deeper and deeper into unmotivated depression, also known as burnout :(. As society develops, the individual falls between the cracks in the foundation and is left to fend for themselves within the constantly growing anxiety about keeping up. How so, therefore, should a mere individual like you or me, ever hope to overcome the hardships and strive for betterment? Well, one way we wish to tackle this issue is through constant motivation from both ourselves and others.
+
+It has been proven through many scientific studies that motivational quotes offer a pathway to a rejuvenated spirit. Once mixed with beauty for a background and calligraphic font, these motivational quotes turn into more than just mere words on a screen, but lifelines for the struggling. 
+
+That is why we wish to provide the easiest way to create these quotes of motivation. However, such pieces of art can only be thought of as the best of the best, and the best are only prized when they are worth value. Thus, to bring to the world’s eyes the worth of personally created motivational quotes, we added the feature of automatically turning them into NFTs. 
+
+NFTs have been a worldwide phenomenon, gaining internet traction and investments from multi-millionaires. It is truly the future of money making and the buying and selling of valuable items. 
+
+To create the website, we utilized HTML/CSS and Javascript, specifically using libraries such React.js to enhance the visual elements and functionality of our website. Moreover, we used API DeSo to establish our NFTs. 
+
+Here in our web application, a user can log into their deso blockchain account that they will be posting the NFTs from. 
+
+To create their NFT, all they must do is click the create button, type in their quote, then click submit.
+
+Through this, we hope empowerment can truly be achieved, Empowerment coming from the many who will stumble upon these NFTs and buy them as they are inspired by them, and empowerment from the sellers of the nft who can make some money and gain confidence by inspiring others. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
