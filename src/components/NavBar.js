@@ -38,7 +38,20 @@ function NavBar() {
                 <Typography variant="h6" className={classes.menuItem}>
                     Create
                 </Typography>
+<<<<<<< Updated upstream
                 <CustomBtn txt="Log In"/>
+=======
+                <Typography variant="h6" className={classes.menuItem}>
+                    Careers
+                </Typography>
+                <Typography variant="h6" className={classes.menuItem}>
+                    Demos 
+                </Typography>
+                <Typography variant="h6" className={classes.menuItem}>
+                    Contact Us 
+                </Typography>
+                <CustomBtn txt="Sign In"/>
+>>>>>>> Stashed changes
             </Toolbar>
     )
 }
